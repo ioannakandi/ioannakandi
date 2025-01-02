@@ -1,9 +1,6 @@
 
 ![](https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif)
-https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif
-https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif
-https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif
-<!--
+
 **ioannakandi/ioannakandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
