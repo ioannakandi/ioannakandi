@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#My Gif
+![](https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif)
 <!--
 **ioannakandi/ioannakandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
