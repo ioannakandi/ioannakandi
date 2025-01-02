@@ -4,7 +4,7 @@
 
 
 Hi everyone! 
-👩‍💻 I'm a data scientist from Greece working in the Banking Industry. 
+👩‍💻 I'm a data scientist from Greece working in the Banking Industry.
 💥With studies in Εconomics and Advanced Information Systems my general interests mainly consist of data engineering and conducting data analyses with real-world impact. 
 
 ---
