@@ -4,6 +4,7 @@
 &color=_hexcode : default(#B897FF)
 
 Hi everyone! 
-🔭 I'm currently a data analyst in the Banking Industry. With studies in Εconomics and Advanced Information Systems my general interests mainly consist of data engineering and conducting data analyses with real-world impact. 🌱⚡
+:woman_technologist: I'm a data analyst from Greece working in the Banking Industry. 
+🌱⚡With studies in Εconomics and Advanced Information Systems my general interests mainly consist of data engineering and conducting data analyses with real-world impact. 
 
 
